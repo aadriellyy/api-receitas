@@ -1,3 +1,3 @@
-package main.java.com.example.receitas.dto;
+package com.example.receitas.dto;
 
 public record IngredienteDTO(String nome, String unidadeMedida) {}
